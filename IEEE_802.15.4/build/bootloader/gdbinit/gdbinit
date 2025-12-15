@@ -1,0 +1,2 @@
+source D:/UNI/ieee802154_cli/build/bootloader/gdbinit/symbols
+source D:/UNI/ieee802154_cli/build/bootloader/gdbinit/connect
